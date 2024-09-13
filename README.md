@@ -4,6 +4,7 @@
 
 ## Projects Created
  - Weather Web App
-    - used weather API to show real-time data from every city on the planet.
+    - used openweather API to show real-time data from every city on the planet.
+    - <b>Special Features</b>: Displays message on incorrect input, neat presentation & good looking UI.
 
 ##Topics Covered
