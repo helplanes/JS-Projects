@@ -7,4 +7,4 @@
     - used openweather API to show real-time data from every city on the planet.
     - <b>Special Features</b>: Displays message on incorrect input, neat presentation & good looking UI.
 
-##Topics Covered
+## Topics Covered
